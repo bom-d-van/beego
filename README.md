@@ -1,5 +1,7 @@
 ## Beego
 
+[![Join the chat at https://gitter.im/bom-d-van/beego](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bom-d-van/beego?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://drone.io/github.com/astaxie/beego/status.png)](https://drone.io/github.com/astaxie/beego/latest)
 [![GoDoc](https://godoc.org/github.com/astaxie/beego?status.svg)](https://godoc.org/github.com/astaxie/beego)
 
